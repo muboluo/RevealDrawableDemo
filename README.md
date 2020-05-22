@@ -4,3 +4,4 @@
 
 # 实现效果图如下：
 
+[!image](https://github.com/muboluo/RevealDrawableDemo/blob/master/example/example.png)
